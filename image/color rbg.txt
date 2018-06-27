@@ -1,0 +1,6 @@
+blue 0 160 234
+cyan 1 255 255
+green 0 255 1
+pink 255 0 255
+red 254 0 0
+yellow 255 255 1
