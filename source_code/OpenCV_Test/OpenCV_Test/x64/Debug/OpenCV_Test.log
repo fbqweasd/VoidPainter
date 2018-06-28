@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\opcv\opencv_test\opencv_test\main.cpp(332): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\opcv\opencv_test\opencv_test\main.cpp(415): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OpenCV_Test.vcxproj -> C:\opcv\OpenCV_Test\x64\Debug\OpenCV_Test.exe
